@@ -7,8 +7,8 @@
 
 
 // ===================== Configuração Wi-Fi ===================== 
-const char* ssid = "Leandro11";       // Nome da rede Wi-Fi
-const char* password = "IFSP123!";   // Senha da rede Wi-Fi
+const char* ssid = "";       // Nome da rede Wi-Fi
+const char* password = "";   // Senha da rede Wi-Fi
 
 WebServer server(80);
 
